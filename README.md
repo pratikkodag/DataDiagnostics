@@ -2,6 +2,7 @@
 
 DataDiagnostics is a robust data analysis and visualization tool designed to ensure data quality, perform comprehensive statistical analysis, and generate insightful visualizations. With features like data validation, outlier detection, and interactive charting, DataDiagnostics empowers users to make data-driven decisions confidently.
 
+## link :- https://datadiagnostics.streamlit.app/
 ---
 
 ## Features
