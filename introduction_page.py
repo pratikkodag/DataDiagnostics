@@ -1,6 +1,6 @@
 import streamlit as st
 st.set_page_config(layout="wide")
-st.title("🔥 DataDiagnostics")
+st.title("DataDiagnostics")
 
 st.markdown("""
 Welcome to **DataDiagnostics**—a powerful tool designed to ensure data quality, perform comprehensive analysis, and generate insightful visualizations. With a focus on data validation and statistical analysis, DataDiagnostics helps you make data-driven decisions with confidence.
